@@ -101,7 +101,7 @@
     width: 350px;
   }
   .praiseButton {
-    padding: 0.5rem 1rem; /* Adjust padding for narrower screens */
+    padding: 0.5rem 0.5rem; /* Adjust padding for narrower screens */
   }
 }
 
