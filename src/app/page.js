@@ -176,7 +176,7 @@ export default function Home() {
             </div>
             
 
-            <Button type="submit">Add some data</Button>
+            <Button type="submit">Post Review</Button>
           </form>
         </CardContent>
       </Card>
