@@ -155,7 +155,7 @@ export default function Home() {
               </button>
             </div>
             
-            <Label>Praise</Label>
+            <Label className='text-xl'>Praise</Label>
             <p>What makes us good?</p>
             <div className="flex justify-center ">
               {['adventurous', 'clean', 'goodListener'].map((praiseType) => (
